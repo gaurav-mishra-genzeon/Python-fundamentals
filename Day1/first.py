@@ -13,12 +13,12 @@ print(2/2)
 
 # Data Types 
 
-#int for whole numbers 3 300, 
+# int for whole numbers 3 300, 
 # float for numbers with decimal point 2.3 4.6, 100.0, 
 # str for strings "hello world"
 # list- ordered sequence of objects  [10,"hello", 200.3]
 # dictionaries- dict Unordered Key:Value pairs: {'myKey':"value","name":"Frankie"}
-#Tuples- tup-  Ordered immutable sequence of objects: (10,"hello", 200.3)
+# Tuples- tup-  Ordered immutable sequence of objects: (10,"hello", 200.3)
 # Sets unordered collection of unique objects {"a","b"}
 #booleans true or false
 
